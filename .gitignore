@@ -1,0 +1,46 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+database/*.db
+
+# Cache
+cache/
+*.cache
+
+# Logs
+log/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data exports (optional - uncomment if you don't want to track CSV files)
+# data/stats/
+# data/other_stats/
+# data/match/
+
+# Timeline JSON files (optional - uncomment if you don't want to track)
+# timelines/
+

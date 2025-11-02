@@ -1,0 +1,2 @@
+# Scores table module
+
