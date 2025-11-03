@@ -6,10 +6,10 @@ Setup:
     source venv/bin/activate
 
 2. Install requirements
-    pip install -r requirements.txt
+    uv pip install -r requirements.txt
 
 3. download the cache file from google drive and place it in the cache folder
-
+    https://drive.google.com/drive/u/0/folders/1veqacDjEy2tBU_QFx3GDp3u6cM6gCNXi
 
 
 Commands:
